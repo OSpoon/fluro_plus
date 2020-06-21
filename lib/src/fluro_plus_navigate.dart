@@ -18,10 +18,10 @@ class FluroPlusNavigate {
     bool clearStack = false,
     TransitionType transitionType = TransitionType.fadeIn,
   }) {
-    debugPrint('go to path ::: ${path}?arguments=${bundle?.toJson()}');
+    debugPrint('go to path ::: $path?arguments=${bundle?.toJson()}');
     FocusScope.of(context).requestFocus(new FocusNode());
     FluroPlusApp.router.navigateTo(
-        context, '${path}?arguments=${bundle?.toJson()}',
+        context, '$path?arguments=${bundle?.toJson()}',
         replace: replace, clearStack: clearStack, transition: transitionType);
   }
 
@@ -35,10 +35,10 @@ class FluroPlusNavigate {
     bool clearStack = false,
     TransitionType transitionType = TransitionType.fadeIn,
   }) {
-    debugPrint('go to path ::: ${path}?arguments=${bundle?.toJson()}');
+    debugPrint('go to path ::: $path?arguments=${bundle?.toJson()}');
     FocusScope.of(context).requestFocus(new FocusNode());
     FluroPlusApp.router
-        .navigateTo(context, '${path}?arguments=${bundle?.toJson()}',
+        .navigateTo(context, '$path?arguments=${bundle?.toJson()}',
             replace: replace,
             clearStack: clearStack,
             transition: transitionType)

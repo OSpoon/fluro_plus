@@ -1,4 +1,6 @@
-import 'package:fluro_plus/fluro_plus.dart';
+import 'package:fluro_plus/src/fluro_plus_bundle.dart';
+import 'package:fluro_plus/src/fluro_plus_page_router.dart';
+import 'package:fluro_plus/src/fluro_plus_page_routers.dart';
 
 import 'page/home_page.dart';
 import 'page/new_one_page.dart';

@@ -1,7 +1,7 @@
 name: fluro_plus
 description: >
-  Fluro_Plus对Fluro的传参进行来包装，方便使用
-version: 0.0.1
+  Fluro_ Plus is mainly used for secondary packaging of fluro. It uses bundle to deliver messengers between pages. It also packages navigation to provide common operation modes, which is more convenient for use and project integration。
+version: 0.0.3
 homepage: https://github.com/OSpoon/fluro_plus
 
 environment:

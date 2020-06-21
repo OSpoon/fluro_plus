@@ -1,4 +1,4 @@
-import 'package:fluro_plus/fluro_plus.dart';
+import 'package:fluro_plus/src/fluro_plus_navigate.dart';
 import 'package:flutter/material.dart';
 
 class NewTwoPage extends StatefulWidget {
