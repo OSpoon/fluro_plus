@@ -1,8 +1,14 @@
 ### Fluro_Plus项目简介
 
-> Fluro_Plus对Fluro的传参进行来包装，通过传递和接收Bundle来方便使用
+> Fluro_Plus对Fluro的传参进行来包装，通过传递和接收Bundle来方便使用，目前只是在初学阶段，欢迎指点
 
 #### 使用说明
+
+##### 引入依赖
+```dart
+fluro_plus:
+    git: https://github.com/OSpoon/fluro_plus.git
+```
 
 ##### 构建项目路由
 
@@ -148,3 +154,5 @@ RaisedButton(
     });
   }),
 ```
+
+[Fluro_Plus源码地址](https://github.com/OSpoon/fluro_plus)，部分代码来自网络搜索来的案例，并注释了来源，如有未标明了请联系我一下。
