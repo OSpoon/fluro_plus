@@ -1,7 +1,7 @@
 name: fluro_plus
 description: >
-  Fluro_ Plus is mainly used for secondary packaging of fluro. It uses bundle to deliver messengers between pages. It also packages navigation to provide common operation modes, which is more convenient for use and project integration。
-version: 0.0.4
+  Fluroplus mainly repackages fluro, uses bundle to deliver messengers between pages, and also packages navigation to provide common operation modes
+version: 0.0.5
 homepage: https://github.com/OSpoon/fluro_plus
 
 environment:
